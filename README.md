@@ -15,3 +15,5 @@ Big O Notation'ı O(n2)
 
 *Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 -Avarage Case = 18
+
+[Patika](https://app.patika.dev/)
