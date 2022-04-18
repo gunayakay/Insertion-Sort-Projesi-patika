@@ -6,7 +6,7 @@ Insertion Sort Projesi ödevi
 [22,27,16,2,18,6]->[2,27,16,22,18,6]->[2,6,16,22,18,27]->[2,6,16,18,22,27]
 
 *Big-O Notation'u gösteriniz.
-Big O Notation'ı O(n2)
+Big O Notation'ı O(n^2)
 
 *Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 - Avarage Case = 18
